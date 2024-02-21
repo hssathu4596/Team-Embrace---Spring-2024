@@ -2,6 +2,9 @@
 
 Hello and welcome to Team Embrace's GitHub Repo! Here are a couple of resources to help you get started with our project. The code for the YOLO Model is organized in the folders. If you have any questions, please feel free to reach out!
 
+## Weekly Progress:
+- 2/15 : Focused on replicating results of sample code for YOLO
+
 ## GitHub Resources:
 - [Git and GitHub Tutorial for Beginners](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
 - [GitHub Git Cheat Sheet (PDF)](https://training.github.com/downloads/github-git-cheat-sheet.pdf)
