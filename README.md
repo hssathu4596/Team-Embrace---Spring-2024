@@ -4,6 +4,7 @@ Hello and welcome to Team Embrace's GitHub Repo! Here are a couple of resources 
 
 ## Weekly Progress:
 - 2/15 : Focused on replicating results of sample code for YOLO
+- 2/22 : Fixed the sample code for YOLO (see Fixed_Code.ipynb)
 
 ## GitHub Resources:
 - [Git and GitHub Tutorial for Beginners](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
