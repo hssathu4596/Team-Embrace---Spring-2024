@@ -4,11 +4,11 @@ This repository contains sample code for YOLOv5, utilizing a sample surgical dat
 
 ## How to Improve the YOLO Model
 
-1. **Different Versions of YOLO**
-2. **Adding More Images to the Dataset (Data Augmentation)**
+1. **Different Versions of YOLO** - Shobika 
+2. **Adding More Images to the Dataset (Data Augmentation)** - Aiyer
 3. **Loading Different Pre-trained Weights for Similar Datasets**
-4. **Modifying Hyperparameters in the .yaml File**
-5. **Utilizing the Largest Batch Size Possible**
+4. **Modifying Hyperparameters in the .yaml File** - Harini
+5. **Utilizing the Largest Batch Size Possible** - Nox
 
 **Resources for Model Improvement:**
 - [Google Colab Notebook](https://colab.research.google.com/drive/1gDZ2xcTOgR39tGGs-EZ6i3RTs16wmzZQ)
