@@ -5,7 +5,13 @@ Hello and welcome to Team Embrace's GitHub Repo! Here are a couple of resources 
 ## Weekly Progress:
 - 2/15 : Focused on replicating results of sample code for YOLO
 - 2/22 : Fixed the sample code for YOLO (see Fixed_Code.ipynb)
-
+- 2/29 : Assigned ourselves ways to improve the pre-existing YOLO code
+    Different Versions of YOLO - Shobika
+    Adding More Images to the Dataset (Data Augmentation) - Aiyer
+    Loading Different Pre-trained Weights for Similar Datasets
+    Modifying Hyperparameters in the .yaml File - Harini
+    Utilizing the Largest Batch Size Possible - Nox
+  
 ## GitHub Resources:
 - [Git and GitHub Tutorial for Beginners](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
 - [GitHub Git Cheat Sheet (PDF)](https://training.github.com/downloads/github-git-cheat-sheet.pdf)
