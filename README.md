@@ -8,9 +8,11 @@ Hello and welcome to Team Embrace's GitHub Repo! Here are a couple of resources 
 - 2/29 : Assigned ourselves ways to improve the pre-existing YOLO code
     - Different Versions of YOLO - Shobika
     - Adding More Images to the Dataset (Data Augmentation) - Aiyer
-    - Loading Different Pre-trained Weights for Similar Datasets
+    - Loading Different Pre-trained Weights for Similar Datasets - Jack
     - Modifying Hyperparameters in the .yaml File - Harini
     - Utilizing the Largest Batch Size Possible - Nox
+- 3/7 : Continued to work on fine-tuning the YOLO model
+- 3/14 : **No Meeting**
   
 ## GitHub Resources:
 - [Git and GitHub Tutorial for Beginners](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
