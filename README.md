@@ -4,7 +4,7 @@ Hello and welcome to Team Embrace's GitHub Repo! Here are a couple of resources 
 
 ## Weekly Progress:
 - 2/15 : Focused on replicating results of sample code for YOLO
-- 2/22 : Fixed the sample code for YOLO (see Fixed_Code.ipynb)
+- 2/22 : Fixed the sample code for YOLO (see Starter_Code.ipynb)
 - 2/29 : Assigned ourselves ways to improve the pre-existing YOLO code
     - Different Versions of YOLO - Shobika
     - Adding More Images to the Dataset (Data Augmentation) - Aiyer
