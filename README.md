@@ -13,6 +13,7 @@ Hello and welcome to Team Embrace's GitHub Repo! Here are a couple of resources 
     - Utilizing the Largest Batch Size Possible - Nox
 - 3/7 : Continued to work on fine-tuning the YOLO model
 - 3/14 : **No Meeting**
+- 3/21 : Spring Break - **No Meeting**
   
 ## GitHub Resources:
 - [Git and GitHub Tutorial for Beginners](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
